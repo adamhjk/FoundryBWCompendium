@@ -1,0 +1,4 @@
+# Release build artifacts
+v*.zip
+FoundryBWCompendium-*
+test-extract/
