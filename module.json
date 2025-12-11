@@ -28,7 +28,7 @@
     "author": "Adam Jacob",
     "url": "https://github.com/adamhjk/FoundryBWCompendium",
     "manifest": "https://raw.githubusercontent.com/adamhjk/FoundryBWCompendium/main/module.json",
-    "download": "https://github.com/adamhjk/FoundryBWCompendium/archive/v0.2.0.zip",
+    "download": "https://github.com/adamhjk/FoundryBWCompendium/archive/refs/tags/v0.2.0.zip",
     "bugs": "https://github.com/adamhjk/FoundryBWCompendium/issues",
     "readme": "https://github.com/adamhjk/FoundryBWCompendium/README.md",
     "packs": [
