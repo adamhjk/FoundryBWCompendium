@@ -3,7 +3,7 @@
     "name": "foundry-bw-compendium",
     "title": "Foundry BW Compendium",
     "description": "A set of compendiums that are compatible with StarsTserk Burning Wheel Module",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "11",
     "compatibility": {
@@ -28,7 +28,7 @@
     "author": "Adam Jacob",
     "url": "https://github.com/adamhjk/FoundryBWCompendium",
     "manifest": "https://raw.githubusercontent.com/adamhjk/FoundryBWCompendium/main/module.json",
-    "download": "https://github.com/adamhjk/FoundryBWCompendium/archive/refs/tags/v0.2.0.zip",
+    "download": "https://github.com/adamhjk/FoundryBWCompendium/archive/refs/tags/v0.2.1.zip",
     "bugs": "https://github.com/adamhjk/FoundryBWCompendium/issues",
     "readme": "https://github.com/adamhjk/FoundryBWCompendium/README.md",
     "packs": [

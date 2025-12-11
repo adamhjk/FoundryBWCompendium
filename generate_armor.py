@@ -31,7 +31,7 @@ ARMOR_TYPES = [
             "swimmingPenalty": 0,
             "perceptionObservationPenalty": 0
         },
-        "img": "icons/equipment/chest/breastplate-layered-leather-brown.webp"
+        "img": "icons/equipment/chest/breastplate-quilted-brown.webp"
     },
     {
         "name": "Reinforced Leather",
@@ -50,7 +50,7 @@ ARMOR_TYPES = [
             "swimmingPenalty": 1,
             "perceptionObservationPenalty": 0
         },
-        "img": "icons/equipment/chest/breastplate-leather-studded-brown.webp"
+        "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp"
     },
     {
         "name": "Light Mail",
@@ -69,7 +69,7 @@ ARMOR_TYPES = [
             "swimmingPenalty": 1,
             "perceptionObservationPenalty": 0
         },
-        "img": "icons/equipment/chest/breastplate-scale-grey.webp"
+        "img": "icons/equipment/chest/breastplate-scale-leather.webp"
     },
     {
         "name": "Heavy Mail",
@@ -88,7 +88,7 @@ ARMOR_TYPES = [
             "swimmingPenalty": 2,
             "perceptionObservationPenalty": 0
         },
-        "img": "icons/equipment/chest/breastplate-chainmail-iron.webp"
+        "img": "icons/equipment/chest/breastplate-metal-scaled-grey.webp"
     },
     {
         "name": "Plated Mail",
@@ -107,7 +107,7 @@ ARMOR_TYPES = [
             "swimmingPenalty": 2,
             "perceptionObservationPenalty": 0
         },
-        "img": "icons/equipment/chest/breastplate-helmet-steel.webp"
+        "img": "icons/equipment/chest/breastplate-banded-steel.webp"
     },
     {
         "name": "Full Plate",
@@ -126,7 +126,7 @@ ARMOR_TYPES = [
             "swimmingPenalty": 3,
             "perceptionObservationPenalty": 0
         },
-        "img": "icons/equipment/chest/breastplate-collared-steel-grey.webp"
+        "img": "icons/equipment/chest/breastplate-cuirass-steel-grey.webp"
     }
 ]
 
@@ -146,7 +146,7 @@ HELMETS = [
         "base_cost": 3,
         "description": "A light helmet or pot helm that covers the head.",
         "perceptionPenalty": 1,
-        "img": "icons/equipment/head/helm-barbute-scaled-grey.webp"
+        "img": "icons/equipment/head/helm-kettle-worn.webp"
     },
     {
         "name": "Spangenhelm",
@@ -154,7 +154,7 @@ HELMETS = [
         "base_cost": 5,
         "description": "A segmented helmet with an open face design.",
         "perceptionPenalty": 1,
-        "img": "icons/equipment/head/helm-barbute-studded-steel.webp"
+        "img": "icons/equipment/head/helm-spangen.webp"
     },
     {
         "name": "Open-faced Bascinet",
@@ -162,7 +162,7 @@ HELMETS = [
         "base_cost": 8,
         "description": "A well-crafted helmet with an open face or barbute design.",
         "perceptionPenalty": 2,
-        "img": "icons/equipment/head/helm-masked-steel-grey.webp"
+        "img": "icons/equipment/head/helm-barbute-steel.webp"
     },
     {
         "name": "Closed Bascinet",
@@ -170,7 +170,7 @@ HELMETS = [
         "base_cost": 13,
         "description": "A closed-face helmet such as a sallet or closed bascinet.",
         "perceptionPenalty": 2,
-        "img": "icons/equipment/head/helm-full-steel.webp"
+        "img": "icons/equipment/head/helm-sallet-steel.webp"
     },
     {
         "name": "Great Helm",
@@ -178,7 +178,7 @@ HELMETS = [
         "base_cost": 25,
         "description": "A massive great helm that fully encloses the head.",
         "perceptionPenalty": 3,
-        "img": "icons/equipment/head/helm-great-steel-grey.webp"
+        "img": "icons/equipment/head/greathelm-banded-steel.webp"
     }
 ]
 
@@ -196,21 +196,21 @@ SHIELDS = [
         "dice": 2,
         "base_cost": 4,
         "description": "A medium-sized round target shield.",
-        "img": "icons/equipment/shield/round-wooden-boss-steel.webp"
+        "img": "icons/equipment/shield/round-wooden-boss-steel-brown.webp"
     },
     {
         "name": "Heater Shield",
         "dice": 3,
         "base_cost": 6,
         "description": "A large heater-style shield providing substantial protection.",
-        "img": "icons/equipment/shield/heater-steel-worn-blue.webp"
+        "img": "icons/equipment/shield/heater-steel-grey.webp"
     },
     {
         "name": "Great Shield",
         "dice": 4,
         "base_cost": 8,
         "description": "A massive shield that provides excellent protection at the cost of mobility.",
-        "img": "icons/equipment/shield/kite-steel-grey.webp"
+        "img": "icons/equipment/shield/kite-wooden-boss-steel-brown.webp"
     }
 ]
 
